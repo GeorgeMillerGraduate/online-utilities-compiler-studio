@@ -1,0 +1,3 @@
+// Turn an expression into instructions.
+sum = 3 + 5 * 2;
+print(sum);

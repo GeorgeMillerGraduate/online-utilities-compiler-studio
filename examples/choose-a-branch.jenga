@@ -1,0 +1,6 @@
+let score = 72;
+if (score >= 70) {
+  print(1);
+} else {
+  print(0);
+}

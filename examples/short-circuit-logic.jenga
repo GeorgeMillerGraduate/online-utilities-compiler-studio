@@ -1,0 +1,6 @@
+let divisor = 0;
+if (divisor != 0 && 10 / divisor > 1) {
+  print(1);
+} else {
+  print(0);
+}
